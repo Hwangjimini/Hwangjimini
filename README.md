@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
-
-### 🚌 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangjimini&layout=)
